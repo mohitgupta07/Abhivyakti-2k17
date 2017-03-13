@@ -1,0 +1,61 @@
+
+
+<ion-view view-title="" >
+  <ion-nav-buttons side="left">
+    <button class="button button-positive button-clear no-animation" style="font-weight: bolder"
+            ng-click="startApp()" ng-show="!slideIndex">
+      Skip Intro
+    </button>
+    <button class="button button-positive button-clear no-animation" style="font-weight: bolder"
+            ng-click="previous()" ng-show="slideIndex > 0">
+      Previous
+    </button>
+  </ion-nav-buttons>
+  <ion-nav-buttons side="right">
+    <button class="button button-positive button-clear no-animation" style="font-weight: bolder"
+            ng-click="next()" ng-show="slideIndex != 2">
+      Next
+    </button>
+    <button class="button button-positive button-clear no-animation" style="font-family: cursive"
+            ng-click="startApp()" ng-show="slideIndex == 2">
+     Let's Roll In!
+    </button>
+  </ion-nav-buttons>
+  <ion-slide-box on-slide-changed="slideChanged(index)">
+    <ion-slide>
+      <h3 style="font-family: ComicSansMS,cursive;font-weight: bolder;color: #123684"> Xero 2k17
+        <span class="badge badge-assertive">on 14th Feb</span> </h3>
+      <p style="font-family: cursive">Xero is a musical performance event in the style of any one of many genres inspired by "rock and roll" music. While a variety of vocal and instrumental styles can constitute a rock concert, this phenomenon is typically characterized by bands playing at least
+      one electric guitar, an electric bass guitar, and drums.      </p>
+      <div id="logo">
+        <img src="img/galaxy.jpg" class="full-image">
+      </div>
+      <p style="font-family:cursive; ">
+        And this is just the beginning, Abhivyakti comes next!
+
+      </p>
+    </ion-slide>
+    <ion-slide>
+      <h3 style="font-family: ComicSansMS,cursive;font-weight: bolder;color: #123684">Abhivyakti 2017
+        <span class="badge badge-assertive" style="font-family: cursive">on 16-18th Feb</span></h3>
+      <p style="font-family: cursive;">This February will stand witness to the days of fresh ideation and euphoria.
+        It assures of being nothing less than a revolution in cultural globe, aptly known as ABHIVYAKTI.
+        Abhivyakti is the one of the most sought after college Extravaganzas in U.P.
+        The relative isolation of Lucknow from other cities is one aspect that makes Abhivyakti so
+        special to every one who attends the fiesta</p>
+<img src="img/bg.jpg" class="full-image">
+      <p style="font-family:cursive; ">The date is coming. We are excited . Are you?</p>
+
+      <p style="font-family:cursive; ">Its not over Yet as our Star is up next in the list. The Star Night!</p>
+    </ion-slide>
+    <ion-slide>
+      <h3 style="font-family: cursive;font-weight: bolder;color: #123684">ABHIJEET BHATTACHARYA</h3>
+      <br>
+      <img src="img/starNight.jpg" class="full-image">
+      <h4 style="font-family:cursive; "> The Star of this year will enlighten the musical world on
+        <span class="badge badge-assertive">18th feb</span>.
+
+      </h4>
+    </ion-slide>
+  </ion-slide-box>
+</ion-view>

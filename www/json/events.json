@@ -1,0 +1,632 @@
+[
+  {
+    "CELL": "STEP CELL",
+    "EVENTLIST": "ENFANCE(INAUGRAL)",
+    "DAY": 1,
+    "DURATION": 25,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "STEP CELL",
+    "EVENTLIST": "DIVERSO",
+    "DAY": 1,
+    "DURATION": 25,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "STEP CELL",
+    "EVENTLIST": "DOUBLEBUGG",
+    "DAY": 1,
+    "DURATION": 25,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "STEP CELL",
+    "EVENTLIST": "THEMA (THEME)",
+    "DAY": 2,
+    "DURATION": 25,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "STEP CELL",
+    "EVENTLIST": "STRADA (STREETS)",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "STEP CELL",
+    "EVENTLIST": "SORPRESA(SURPRISE )",
+    "DAY": 2,
+    "DURATION": 20,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "SURTAAJ",
+    "DAY": 1,
+    "DURATION": 35,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "RAAG",
+    "DAY": 1,
+    "DURATION": 35,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "BLUES",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "SAAMANJASYA",
+    "DAY": 2,
+    "DURATION": 40,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "STOMP BOX",
+    "DAY": 1,
+    "DURATION": 35,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "UDGHGOSH",
+    "DAY": 1,
+    "DURATION": 40,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "UDAAN",
+    "DAY": 2,
+    "DURATION": 40,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "SUR SANGAM",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "THE ARIJIT SHOW",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "EUPHONY",
+    "EVENTLIST": "AWAHAN",
+    "DAY": 2,
+    "DURATION": 60,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "FINE ARTS",
+    "EVENTLIST": "BLACK&WHITE",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "FINE ARTS",
+    "EVENTLIST": "RANGOLI",
+    "DAY": 2,
+    "DURATION": 35,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "FINE ARTS",
+    "EVENTLIST": "RISING STAR",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "FINE ARTS",
+    "EVENTLIST": "THEME PAINTING",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "FINE ARTS",
+    "EVENTLIST": "PAINT&SPRAY",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "FINE ARTS",
+    "EVENTLIST": "ART GALLERY",
+    "DAY": 2,
+    "DURATION": "FULL DAY",
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "HANDICRAFT",
+    "EVENTLIST": "QUILLING CHROMATOGRAPHY",
+    "DAY": 1,
+    "DURATION": 60,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "HANDICRAFT",
+    "EVENTLIST": "SPOON DEXTERITY",
+    "DAY": 1,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "HANDICRAFT",
+    "EVENTLIST": "ICE CREAM STICKS TRICKS",
+    "DAY": 1,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "HANDICRAFT",
+    "EVENTLIST": "THERMOCOOL MASTERY",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "HANDICRAFT",
+    "EVENTLIST": "MEHENDI ARTISTRY",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "HANDICRAFT",
+    "EVENTLIST": "PAPER STOCK FOLD",
+    "DAY": 2,
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "PHOTOGRAPHY",
+    "EVENTLIST": "PHOTO FUNIA",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "PHOTOGRAPHY",
+    "EVENTLIST": "DUV SNASH",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "PHOTOGRAPHY",
+    "EVENTLIST": "ON THE SPOT DSLR COMPETITION",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "PHOTOGRAPHY",
+    "EVENTLIST": "ON THE SPOT MOBILE GRAPHER COMPETITION",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "PHOTOGRAPHY",
+    "EVENTLIST": "LANTERN FEST",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "WORD COMBAT 2K17",
+    "DAY": 1,
+    "DURATION": 40,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "PARLIAMENTARY TALK",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "JUST A MINUTE",
+    "DAY": 2,
+    "DURATION": 40,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "Q-RIOSITY QUIZ",
+    "DAY": 2,
+    "DURATION": 40,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "SPELL BEE",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "DUMB CHARADES(STUDENTS)",
+    "DAY": 2,
+    "DURATION": 40,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "DUMB CHARADES(FACULTY)",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "GRAFFITI (WALL PAINTING)",
+    "DAY": 2,
+    "DURATION": 180,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "PICTIONARY",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "ACT-ENACT",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "KATAAKSH",
+    "DAY": 1,
+    "DURATION": 40,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "SAMADHAAN",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "PIC THE WORD",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "PPD(PICTURE PERCEPTION AND DISCUSSION)",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "LITERATI",
+    "EVENTLIST": "VIEWSION",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "MEDIA CELL",
+    "EVENTLIST": "MASCOT",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "MEDIA CELL",
+    "EVENTLIST": "FLEX",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "MEDIA CELL",
+    "EVENTLIST": "RJ HUNT",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "ABHIVYAKTI PREMIER LEAGUE(FACULTY)",
+    "DAY": 1,
+    "DURATION": "FULL DAY",
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "ABHIVYAKTI PREMIER LEAGUE(STUDENT)",
+    "DAY": 1,
+    "DURATION": "FULL DAY",
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "TUG OF WAR",
+    "DAY": 2,
+    "DURATION": 60,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "TREASURE HUNT",
+    "DAY": 2,
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "LEMON SPOON RACE",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "BALL BOUNCE BUCKET",
+    "DAY": 2,
+    "DURATION": 60,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "BALL IN BETWEEN",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "SACK RACE",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "DART GAME",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "TOUCH ME NOT",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "KAI PO CHE",
+    "DAY": 2,
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "COUPLE RACE",
+    "DAY": 1,
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "HIT THE CAN",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "FACULTY BADMINTON",
+    "DAY": 1,
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "MUSICAL CHAIRS FACULTY",
+    "DAY": 2,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "BANANA RACE",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "INFORMAL",
+    "EVENTLIST": "MUSICAL CHAIRS (STUDENTS)",
+    "DAY": 1,
+    "DURATION": 30,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "NEWS PAPER CELL",
+    "EVENTLIST": "TSHIRT PAINTING",
+    "DAY": "-",
+    "DURATION": 90,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "NEWS PAPER CELL",
+    "EVENTLIST": "TATOO",
+    "DAY": "-",
+    "DURATION": 90,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "NEWS PAPER CELL",
+    "EVENTLIST": "COLLAGE",
+    "DAY": "-",
+    "DURATION": 90,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "NEWS PAPER CELL",
+    "EVENTLIST": "TAMBOLA(FACULTY)",
+    "DAY": "-",
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "NEWS PAPER CELL",
+    "EVENTLIST": "TAMBOLA(STUDENTS)",
+    "DAY": "-",
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "NEWS PAPER CELL",
+    "EVENTLIST": "QUIZZARD",
+    "DAY": "-",
+    "DURATION": 120,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "SHUBHAARAMBH",
+    "DAY": 1,
+    "DURATION": 15,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "LITTLE THEATRE",
+    "DAY": 1,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "NUKKAD NATAK",
+    "DAY": 2,
+    "DURATION": 25,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "AACHAMBHIT VAARDAAT",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "DRACULA KI BARAAT",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "4 YRS OF CELEBRATION AND DRINKS WITH DRACULA",
+    "DAY": 1,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "JO DIKHTA HAI WO BIKTA HAI",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "SILENT SPEAKER",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "RANGMANCH",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "MORNING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "FACULTY GOT TALENT",
+    "DAY": 1,
+    "DURATION": 60,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "DRACULA",
+    "EVENTLIST": "SWYAM ABHINAYA",
+    "DAY": 2,
+    "DURATION": 45,
+    "TIMING": "EVENING"
+  },
+  {
+    "CELL": "RITUMBHARA",
+    "EVENTLIST": "SOLO WALKS",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "RITUMBHARA",
+    "EVENTLIST": "COUPLE WALKS",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "RITUMBHARA",
+    "EVENTLIST": "SPONSERED WALKS",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "RITUMBHARA",
+    "EVENTLIST": "SEQUENCE WALKS",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  },
+  {
+    "CELL": "RITUMBHARA",
+    "EVENTLIST": "VETERAN`S WALK",
+    "DAY": "-",
+    "DURATION": "-",
+    "TIMING": "-"
+  }
+]

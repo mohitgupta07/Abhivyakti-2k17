@@ -1,0 +1,94 @@
+[
+  {
+    "NAME": "ASHUTOSH PANDEY",
+    "CONTACT": 8960514976,
+    "DESIGNATION": "CONVENOR",
+    "BRANCH": "MECH 3rd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "AMAN SONKER",
+    "CONTACT": 7080807380,
+    "DESIGNATION": "CONVENOR",
+    "BRANCH": "CIVIL 3rd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "GANESH MISHRA",
+    "CONTACT": 9598920109,
+    "DESIGNATION": "CONVENOR",
+    "BRANCH": "EE 3rd YR",
+    "CELL": "NUCLEUS"
+  },
+
+  {
+    "NAME": "SYED WALI UL HUDA",
+    "CONTACT": 9415000245,
+    "DESIGNATION": "CONVENOR",
+    "BRANCH": "MCA 3rd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "AMIR RIZVI",
+    "CONTACT": 8726122624,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "CE 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "MOHD IRFAN",
+    "CONTACT": 8737020604,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "CE 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "SHIVAM SWARNKAR",
+    "CONTACT": 9169625043,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "ME 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "SIDDHARTH RAJVANSHI",
+    "CONTACT": 8948549696,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "ME 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "MAYANK PATEL",
+    "CONTACT": 7500731706,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "EE2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "ASHISH PANDEY",
+    "CONTACT": 8874435706,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "IT 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "VISHAL MISHRA",
+    "CONTACT": 7398234751,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "CS 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "ROHIT SINGH",
+    "CONTACT": 7619054277,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "IT 2nd YR",
+    "CELL": "NUCLEUS"
+  },
+  {
+    "NAME": "POOJA  PANDEY",
+    "CONTACT": 9453734520,
+    "DESIGNATION": "ASST CONVENOR",
+    "BRANCH": "MCA 2nd yr",
+    "CELL": "NUCLEUS"
+  }
+]

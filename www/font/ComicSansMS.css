@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ComicSansMS';
+    src: url('fonts/ComicSansMS.eot');
+    src: url('fonts/ComicSansMS.eot') format('embedded-opentype'),
+         url('fonts/ComicSansMS.woff2') format('woff2'),
+         url('fonts/ComicSansMS.woff') format('woff'),
+         url('fonts/ComicSansMS.ttf') format('truetype'),
+         url('fonts/ComicSansMS.svg#ComicSansMS') format('svg');
+}

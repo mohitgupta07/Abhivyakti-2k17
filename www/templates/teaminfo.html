@@ -1,0 +1,56 @@
+<ion-view view-title="Our Team"  class="mybody" style="font-family: 'ComicSansMS',cursive;">
+  <ion-content>
+<div class="card " ng-repeat="x in faculty" style="font-family: 'ComicSansMS',cursive;background: #456789;color: #ffd700">
+  <img src="img/{{x.id+'.jpg'}}" class="item item-avatar-left" alt="{{x.NAME}}">
+  <h3 style="font-family: 'ComicSansMS', cursive;text-align: center;color: #ffd700">{{x.DESIGNATION}}</h3>
+  <h5 style="font-family: 'ComicSansMS', cursive;text-align: center;color: #ffd700">{{x.NAME}}</h5>
+</div>
+    <div class=" ">
+
+      <ion-list  class="card" ng-repeat="designation in designations">
+        <div class="item-divider" style="font-family: 'ComicSansMS',cursive;background: steelblue;text-align: center"><b>{{designation}}</b></div>
+
+        <ion-item ng-repeat="x in team  " class=" item-thumbnail-left" ng-if="designation==x.DESIGNATION"  style="background: lightgoldenrodyellow">
+          <img  class="item-text-wrap " ng-src="{{baseurl+x.NAME+'.jpg'}}" alt="img is loading">
+          <h2 style="font-family: 'ComicSansMS', cursive;color:cadetblue;" class="list-header"><b>
+            {{x.NAME}}
+          </b></h2>
+<h3>
+            {{x.BRANCH}}
+</h3>
+
+          <h3 style="font-family: 'ComicSansMS', cursive;font-style: bold ;">
+{{x.CONTACT}}
+            <i class="fa fa-phone fa-3x" style="text-align: right;float: right;color: green" aria-hidden="true" ng-click="callIt(x.CONTACT)"></i>
+
+
+          </h3>
+
+        </ion-item>
+      </ion-list>
+
+      <!--<ion-list >
+
+
+        <ion-item ng-repeat="x in team" class="  card  item-text-wrap  " style="background-color: #333">
+          &lt;!&ndash;
+          <img class="item-text-wrap" ng-src="{{baseurl+cell.filename}}" alt="img is loading">&ndash;&gt;
+          <h2 style="font-family: 'Adobe Gothic Std B';color:cadetblue;" class="list-header"><b>
+            {{x.NAME}}
+          </b></h2>
+
+          <p style="font-style: italic ; color:white">
+            {{x.BRANCH}}- {{x.DESIGNATION}}
+
+          </p>
+
+          <h3 style="font-style: bold ; color:white">
+            {{x.CONTACT}}
+
+          </h3>
+
+        </ion-item>
+      </ion-list>-->
+    </div>
+  </ion-content>
+</ion-view>

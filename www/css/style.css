@@ -1,0 +1,92 @@
+/* Empty. Add your own CSS if you like */
+.mybody{
+  background-color: black ;
+  animation : rotatecolor 10s ease infinite;
+}
+@keyframes rotatecolor {
+  0% {background: #aaa;}
+  25% {background: #345; }
+  50% {background: #800;}
+  75% {background: #000;}
+  100% {background: #aaa;}
+}
+ ion-content div.scroll{
+   height: 90%; }
+
+.webPage{
+  width: 100%;
+  height: 100%;
+  border: 2px solid #EAAB00;
+  padding: 1rem;}
+ion-spinner * {
+  width: 28px;
+  height: 28px;
+  stroke:white;
+  fill: orange;
+  color:blue;
+}
+
+
+
+/*Intro workssss*/
+.slider {
+  height: 100%;
+}
+.slider-slide {
+  padding-top: 80px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+#logo {
+  margin: 30px 0px;
+}
+
+#list {
+  width: 170px;
+  margin: 30px auto;
+  font-size: 20px;
+}
+#list ol {
+  margin-top: 30px;
+}
+#list ol li {
+  text-align: left;
+  list-style: decimal;
+  margin: 10px 0px;
+}
+
+.button.ng-hide{
+  display:none;
+}
+
+
+
+
+.rotatebutton
+{
+  animation : rotatebuttonkey 1s ease 1;
+}
+.rotatebutton:active
+{
+  animation : rotatebuttonkeyZ 1.5s ease  1;
+}
+@keyframes  rotatebuttonkey{
+  0% {transform: rotateX(0deg) scale(1);}
+
+  50% {transform: rotateX(180deg) scale(1.1);}
+  0% {transform: rotateX(0deg) scale(1);}
+}
+@keyframes  rotatebuttonkeyZ{
+  0% {transform: rotateZ(0deg) scale(1);}
+
+  25% {transform: rotateZ(90deg) scale(1.1);}
+  50% {transform: rotateZ(0deg) scale(1);}
+  75% {transform: rotateZ(-90deg) scale(1.1);}
+  100% {transform: rotateZ(0deg) scale(1);}
+
+}

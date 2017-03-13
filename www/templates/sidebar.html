@@ -1,0 +1,126 @@
+<ion-side-menus enable-menu-with-back-views="false">
+  <ion-side-menu-content style="font-family: 'ComicSansMS',cursive;">
+    <ion-nav-bar class="bar-stable bar-calm " style="font-family: 'ComicSansMS',cursive;font-weight: bold">
+      <ion-nav-back-button style="font-family: 'ComicSansMS',cursive;">
+      </ion-nav-back-button>
+
+      <ion-nav-buttons side="left" style="font-family: 'ComicSansMS',cursive;" class="rotatebutton">
+        <button class="button button-icon button-clear ion-navicon rotatebutton" menu-toggle="left">
+        </button>
+
+
+      </ion-nav-buttons>
+      <ion-nav-buttons side="right"  style="font-family: cursive">
+        <button class="button button-icon button-clear rotatebutton" menu-toggle="right" >
+        <i class="icon ion-gear-a"></i>
+      </button></ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent" style="font-family: 'ComicSansMS',cursive;"></ion-nav-view>
+
+  </ion-side-menu-content>
+
+  <ion-side-menu side="left" class="">
+    <ion-header-bar class="bar-stable " style="background: #456789;font-family: 'ComicSansMS',cursive;">
+      <h1 class="item-avatar-right ">
+
+        <img class="" ng-src='img/icon.png'>
+      </h1>
+    </ion-header-bar>
+    <ion-content>
+      <ion-list style="font-family: 'ComicSansMS',cursive;">
+        <!--<ion-item menu-close ng-click="login()">
+          Login
+        </ion-item>-->
+        <ion-item menu-close href="#/app/home">
+          Home
+        </ion-item>
+        <ion-item menu-close href="#/app/starNight">
+          Star Night
+        </ion-item>
+        <ion-item menu-close href="#/app/events">
+          Events
+        </ion-item>
+
+
+
+        <ion-item menu-close href="#/app/starslist">
+          Stars
+        </ion-item>
+        <ion-item menu-close href="#/app/cellslist">
+          Cells
+        </ion-item>
+
+        <ion-item menu-close href="#/app/aboutabhivyakti">
+          Notifications
+        </ion-item>
+        <ion-item menu-close href="#/app/results">
+          Results
+        </ion-item>
+        <ion-item menu-close class="item-divider ">
+          Schedule
+        </ion-item>
+        <ion-item menu-close href="#/app/day1">
+          Day 1
+        </ion-item>
+        <ion-item menu-close href="#/app/day2">
+        Day 2
+      </ion-item>
+        <ion-item menu-close href="#/app/day3">
+        Day 3
+      </ion-item>
+        <!--<ion-item menu-close href="#/app/gallery">
+          Gallery
+        </ion-item>
+-->
+        <ion-item menu-close class="item-divider ">
+          Contact Us
+        </ion-item>
+        <ion-item menu-close href="#/app/teaminfo">
+          Our Team
+        </ion-item>
+        <ion-item menu-close href="#/app/reachUs">
+        Reach Us
+        </ion-item>
+
+        <ion-item menu-close href="#/app/developerinfo">
+         App-Developer
+        </ion-item>
+
+
+
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+  <ion-side-menu side="right">
+    <ion-header-bar class="bar-stable " style="background: #456789;font-family: 'ComicSansMS',cursive;">
+      <h1 class="item-avatar-left ">
+
+        <img class="" ng-src='img/icon.png'>
+      </h1>
+    </ion-header-bar>
+    <ion-content>
+      <ion-list style="font-family: 'ComicSansMS',cursive;">
+        <!--<ion-item menu-close href="#/app/faq">
+          FAQ's
+        </ion-item>-->
+
+        <ion-item menu-close href="#/app/disclaimer">
+          Disclaimer Notice
+        </ion-item>
+        <ion-item menu-close href="#/app/cookie">
+          Cookie Policy
+        </ion-item>
+        <ion-item menu-close href="#/app/t&c">
+          Terms And Conditions
+        </ion-item>
+        <ion-item menu-close href="#/app/privacy">
+          Privacy Policy
+        </ion-item>
+
+
+      </ion-list>
+
+    </ion-content>
+
+  </ion-side-menu>
+</ion-side-menus>

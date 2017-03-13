@@ -1,0 +1,23 @@
+<ion-view view-title="Stars" class="mybody">
+  <ion-content>
+    <div class="card ">
+
+      <ion-list>
+
+        <div class="assertive" ng-if="invalid">Loading...Please wait!</div>
+
+        <ion-item ng-repeat="star in stars" class="  card item-thumbnail item-text-wrap  ">
+            <img class="full-image " ng-src="{{baseurl+star.year+'.jpg'}}" alt="img is loading">
+            <h2 class="list-header">
+          {{star.name}}
+        </h2>
+
+          <h4 class="" style="font-style: italic" >
+            {{star.year}}
+          </h4>
+          <span ng-if="star.year==2017" class="badge badge-assertive">Coming Up</span>
+        </ion-item>
+      </ion-list>
+    </div>
+  </ion-content>
+</ion-view>

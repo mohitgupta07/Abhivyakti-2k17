@@ -1,0 +1,15 @@
+<ion-view view-title="Events Abhivyakti 2k17" class="mybody" style="font-family: 'ComicSansMS',cursive;background: lightgoldenrodyellow;">
+  <ion-content>
+
+      <ion-list ng-repeat="cell in cells" class="card">
+  <div class="item-divider" style="text-align: center;font-family: 'ComicSansMS',cursive;background: #dd1144;color: gold"> {{cell}}</div>
+
+        <ion-item ng-repeat="event in events  " class=" " style="color: #dd1144;" ng-if="cell==event.CELL" href="#/app/events/{{event}}" >
+      {{event.EVENTLIST}}
+        </ion-item>
+      </ion-list>
+
+
+
+  </ion-content>
+</ion-view>

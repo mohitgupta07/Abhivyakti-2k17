@@ -1,0 +1,27 @@
+
+<ion-view view-title="Cells" class="mybody" style="font-family: ComicSansMS,cursive;background: lightgoldenrodyellow;"  >
+
+  <ion-content >
+
+    <div class="card " >
+
+      <ion-list >
+
+        <div class="assertive" ng-if="invalid">Loading...Please wait!</div>
+
+        <ion-item ng-repeat="cell in cells" class="  card  item-text-wrap  " style="font-family: 'ComicSansMS'cursive;background-color: #333">
+          <!--
+          <img class="item-text-wrap" ng-src="{{baseurl+cell.filename}}" alt="img is loading">-->
+          <h1 style="color:dodgerblue;" class="list-header"><b>
+            {{cell.cellName}}
+            </b></h1>
+
+           <p style="font-family: 'ComicSansMS',cursive;font-size: 105%; color:white">
+            {{cell.cellDescription}}
+
+        </p>
+        </ion-item>
+      </ion-list>
+    </div>
+  </ion-content>
+</ion-view>
